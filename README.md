@@ -10,7 +10,7 @@ Cara Menjalankan Program :
 - Download folder lalu extract
 - Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetika `python main.py`
 
-### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut 
+### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
 [Modul Program Nilai Mahasiswa (1).pdf](https://github.com/rezafalevi10/tugasUAS/files/10362230/Modul.Program.Nilai.Mahasiswa.1.pdf)
 
