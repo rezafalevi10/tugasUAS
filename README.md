@@ -13,3 +13,10 @@ Cara Menjalankan Program :
 ### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut 
 
 [Modul Program Nilai Mahasiswa (1).pdf](https://github.com/rezafalevi10/tugasUAS/files/10362230/Modul.Program.Nilai.Mahasiswa.1.pdf)
+
+### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
+
+
+
+### Berikut link repository github :
+
